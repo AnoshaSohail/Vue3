@@ -1,57 +1,59 @@
-events: [
-  {
-    id: 5928133,
-    category: "Animal Welfare",
-    title: "Dog Adoption Day",
-    description: "Find your new feline friend at this event",
-    location: "Boo Town",
-    date: "January 9 , 2002",
-    time: "01:00",
-    petsAllowed: true,
-    organizer: "Kat Laydee",
-  },
-  {
-    id: 6928133,
-    category: "Animal Welfare",
-    title: "Cat Adoption Day",
-    description: "Find your new feline friend at this event",
-    location: "Meow Town",
-    date: "January 5 , 2002",
-    time: "12:00",
-    petsAllowed: true,
-    organizer: "Dogoe Laydee",
-  },
-  {
-    id: 7928133,
-    category: "Animal Welfare",
-    title: "Bunny Playdate",
-    description: "Bring your bunnies for a fun-filled playdate with other rabbit enthusiasts. Learn about rabbit care and adoption opportunities.",
-    location: "Hopsville Park",
-    date: "February 15, 2002",
-    time: "14:30",
-    petsAllowed: true,
-    organizer: "Hoppy Friends Society",
-  },
-  {
-    id: 8928133,
-    category: "Animal Welfare",
-    title: "Pet Wellness Workshop",
-    description: "Join us for an informative workshop on keeping your pets healthy and happy. Learn about nutrition, grooming, and preventive care.",
-    location: "Paws & Claws Community Center",
-    date: "March 3, 2002",
-    time: "10:00",
-    petsAllowed: true,
-    organizer: "VetCare Alliance",
-  },
-  {
-    id: 9928133,
-    category: "Animal Welfare",
-    title: "Exotic Animal Expo",
-    description: "Explore a variety of exotic animals from around the world. Meet knowledgeable exhibitors and discover unique pets for adoption.",
-    location: "Safari Convention Center",
-    date: "April 8, 2002",
-    time: "11:00",
-    petsAllowed: true,
-    organizer: "Exotic Pets Network",
-  },
-]
+{
+  "events": [
+    {
+      "id": 5928133,
+      "category": "Animal Welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new feline friend at this event",
+      "location": "Boo Town",
+      "date": "January 9, 2002",
+      "time": "01:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 6928133,
+      "category": "Animal Welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event",
+      "location": "Meow Town",
+      "date": "January 5, 2002",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Dogoe Laydee"
+    },
+    {
+      "id": 7928133,
+      "category": "Animal Welfare",
+      "title": "Bunny Playdate",
+      "description": "Bring your bunnies for a fun-filled playdate with other rabbit enthusiasts. Learn about rabbit care and adoption opportunities.",
+      "location": "Hopsville Park",
+      "date": "February 15, 2002",
+      "time": "14:30",
+      "petsAllowed": true,
+      "organizer": "Hoppy Friends Society"
+    },
+    {
+      "id": 8928133,
+      "category": "Animal Welfare",
+      "title": "Pet Wellness Workshop",
+      "description": "Join us for an informative workshop on keeping your pets healthy and happy. Learn about nutrition, grooming, and preventive care.",
+      "location": "Paws & Claws Community Center",
+      "date": "March 3, 2002",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "VetCare Alliance"
+    },
+    {
+      "id": 9928133,
+      "category": "Animal Welfare",
+      "title": "Exotic Animal Expo",
+      "description": "Explore a variety of exotic animals from around the world. Meet knowledgeable exhibitors and discover unique pets for adoption.",
+      "location": "Safari Convention Center",
+      "date": "April 8, 2002",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Exotic Pets Network"
+    }
+  ]
+}
